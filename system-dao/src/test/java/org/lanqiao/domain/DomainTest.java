@@ -8,4 +8,7 @@ public class DomainTest {
         User user = new User();
         user.showInfo("张三","123456");
     }
+    public void test(){
+        System.out.println("aaaaaaaaaaaaaaa");
+    }
 }
